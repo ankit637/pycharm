@@ -1,0 +1,14 @@
+{
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Sun, 17 Dec 2023 12:37:39 GMT",
+    "X-Powered-By": "Next.js",
+    "Cache-Control": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "Vary": "Accept-Encoding",
+    "Content-Encoding": "gzip",
+    "X-Cache": "Miss from cloudfront",
+    "Via": "1.1 1e5e5b9011cc9c991b0704bf71880202.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "DEL54-P5",
+    "X-Amz-Cf-Id": "pJG-i8OimD4t_wF5jt-XpOby9dEURpz2RUhtLv_EmMGIJ8HKGd3Ctw=="
+}
