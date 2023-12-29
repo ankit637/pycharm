@@ -1,0 +1,17 @@
+{
+    "Connection": "Keep-Alive",
+    "Keep-Alive": "timeout=5, max=100",
+    "cache-control": "public, max-age=0",
+    "expires": "Fri, 01 Dec 2023 15:53:49 GMT",
+    "content-type": "text/html; charset=UTF-8",
+    "last-modified": "Fri, 01 Dec 2023 14:59:19 GMT",
+    "accept-ranges": "bytes",
+    "content-encoding": "gzip",
+    "vary": "Accept-Encoding,Accept-Encoding",
+    "content-length": "71590",
+    "date": "Fri, 01 Dec 2023 15:53:49 GMT",
+    "server": "LiteSpeed",
+    "platform": "hostinger",
+    "content-security-policy": "upgrade-insecure-requests",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\""
+}
